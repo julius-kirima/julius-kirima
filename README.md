@@ -1,18 +1,62 @@
 <div align="center">
 
-# 👋 Hi, I'm Julius Kirima
+<table>
+<tr>
 
-### Founder & CEO of JUKA
+<td width="40%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Full+Stack+Software+Engineer;Web+%7C+Mobile+%7C+Cloud;Open+Source+Contributor" />
+<div align="center">
+  <img 
+    src="https://i.ibb.co/zhpXfpgJ/JK.jpg"
+    width="150"
+    height="150"
+    style="
+      border-radius:50%;
+      object-fit:cover;
+      border:3px solid #00D9FF;
+    "
+    alt="Julius Kirima Profile"
+  />
+</div>
+
+</td>
+
+
+<td width="60%" align="center">
+
+<h1>👋 Hi, I'm Julius Kirima</h1>
+
+<h3>Founder & CEO of JUKA</h3>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=julius-kirima&style=for-the-badge&color=00D9FF" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;Full+Stack+Software+Engineer;Web+%7C+Mobile+%7C+Cloud;Open+Source+Contributor"
+/>
+
+<br/><br/>
+
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+
+<img 
+  src="https://komarev.com/ghpvc/?username=julius-kirima&style=for-the-badge&color=00D9FF"
+  alt="Profile Views"
+/>
+
+</div>
+
 
 ---
 
