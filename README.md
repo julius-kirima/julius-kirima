@@ -117,18 +117,87 @@ Exploring intelligent systems and automation.
 
 # 📊 GitHub Analytics
 
+---
+
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julius-kirima&theme=tokyonight" />
+## 📊 JUKA GitHub Metrics
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="220">
+
+<h1>81</h1>
+
+<p>
+📦 Total Repositories
+</p>
+
+<p>
+Public + Private
+</p>
+
+</td>
+
+
+<td align="center" width="220">
+
+<h1>5,241+</h1>
+
+<p>
+🔥 Total Commits
+</p>
+
+<p>
+Across All Projects
+</p>
+
+</td>
+
+
+<td align="center" width="220">
+
+<h1>Private</h1>
+
+<p>
+🔒 Private Repositories
+</p>
+
+<p>
+JUKA Internal Projects
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julius-kirima&theme=tokyonight" />
+<table align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julius-kirima&theme=tokyonight" />
+<tr>
+
+<td align="center">
+
+<h2>🚀 Active Development</h2>
+
+<p>
+Building AI systems, web platforms, mobile applications and cloud solutions.
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
+---
 ---
 
 
