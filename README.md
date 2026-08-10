@@ -165,7 +165,7 @@ Exploring intelligent systems and automation.
 
 <div align="center">
 
-## 📊 JUKA GitHub Metrics
+## 📊 JULIUS GitHub Metrics
 
 <table align="center">
 
