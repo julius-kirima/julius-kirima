@@ -12,6 +12,8 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## 🚀 About Me
@@ -31,50 +33,151 @@ I'm **Julius Kirima**, a software engineer and founder building modern technolog
 
 **JUKA** focuses on creating digital solutions that solve real-world problems through:
 
-- Modern web applications
-- Mobile applications
-- Cloud-based systems
-- AI-powered solutions
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Modern Web Applications
+
+Building scalable and modern web experiences.
+
+</td>
+
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Creating mobile solutions for real-world needs.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud-Based Systems
+
+Developing reliable cloud-powered platforms.
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI-Powered Solutions
+
+Exploring intelligent systems and automation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
+
+## 💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter,dart,nodejs,python,supabase,postgres,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=js,python,dart" />
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=julius-kirima&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=julius-kirima&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julius-kirima&layout=compact&theme=tokyonight&hide_border=true"/>
+## 🎨 Frontend & Mobile
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter" />
+
+</div>
+
+<br/>
+
+## ⚙️ Backend & Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" />
+
+</div>
+
+<br/>
+
+## ☁️ Tools & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/julius-kirima">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julius-kirima&theme=tokyonight" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=julius-kirima&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julius-kirima&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/julius-kirima" target="_blank">
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://jukatech.com">
-<img src="https://img.shields.io/badge/JUKA-Website-00D9FF?style=for-the-badge"/>
+&nbsp;&nbsp;
+
+<a href="https://jukatech.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/JUKA%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="JUKA Website"
+  />
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://wa.me/254143421487" target="_blank">
+  <img
+    src="https://img.shields.io/badge/WhatsApp%20%7C%20JUKA%20Client%20Representative-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    alt="WhatsApp - JUKA Client Representative"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="tel:+254716781953">
+  <img
+    src="https://img.shields.io/badge/Call%20JUKA%20Support-00D9FF?style=for-the-badge&logo=phone&logoColor=white"
+    alt="Call JUKA Support"
+  />
+</a>
+
+<br/><br/>
+
+📱 WhatsApp: **+254 143 421487**
+
+<br/>
+
+☎️ Call: **+254 716 781953**
 
 </div>
 
@@ -82,6 +185,72 @@ I'm **Julius Kirima**, a software engineer and founder building modern technolog
 
 <div align="center">
 
-### 🚀 Building. Learning. Shipping.
+<img src="https://i.ibb.co/PvZ2jT3c/juka-logo.png" width="180" alt="JUKA Logo"/>
+
+# 🚀 JUKA
+
+### Building Intelligent Digital Solutions
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+Powered+Solutions;Web+%26+Mobile+Platforms;Cloud+Based+Systems;Technology+Built+For+Impact" />
+
+<br/><br/>
+
+<table align="center">
+<tr>
+
+<td align="center" width="200">
+
+<h2>🚀</h2>
+
+<h3>2025</h3>
+
+<p>Founded</p>
+
+</td>
+
+<td align="center" width="200">
+
+<h2>💻</h2>
+
+<h3>Multiple</h3>
+
+<p>Digital Solutions</p>
+
+</td>
+
+<td align="center" width="200">
+
+<h2>🌍</h2>
+
+<h3>Global</h3>
+
+<p>Technology Vision</p>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+📧 <b>Email</b><br/>
+<a href="mailto:info@jukatech.com">
+info@jukatech.com
+</a>
+
+<br/><br/>
+
+📧 <b>CEO</b><br/>
+<a href="mailto:ceo@jukatech.com">
+ceo@jukatech.com
+</a>
+
+</div>
+
+---
+
+## 🚀 Building. Learning. Shipping.
 
 </div>
